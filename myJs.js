@@ -110,10 +110,10 @@ $(document).ready(function () {
             html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
             background: '#fff url("img/input-bg.jpeg")',
             backdrop: `
-            rgba(0,0,123,0.4)
-            url("img/giphy2.gif")
-            left top
-                    no-repeat
+                        rgba(0,0,123,0.4)
+                        url("img/giphy2.gif")
+                        left top
+                        no-repeat
             `,
             showCancelButton: false,
             confirmButtonColor: "#3085d6",

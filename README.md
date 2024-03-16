@@ -1,4 +1,3 @@
-# thucanhcute.github.io
 const textConfig = {
     text1: "Hellooo",
     text2: "Tớ có đôi lời muốn nóiii",
